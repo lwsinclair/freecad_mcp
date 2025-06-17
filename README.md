@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bonninr-freecad-mcp-badge.png)](https://mseep.ai/app/bonninr-freecad-mcp)
+
 # FreeCAD MCP (Model Control Protocol)
 
 ## Overview
